@@ -11,9 +11,9 @@ A supervised machine learning model that can accurately predict which cities and
 
 #### **A note on using variables**
 
-* All variables with an `mf_` prefix are utilized for multifamily-related variables
-* All variables with a `off_` prefix are utilized for office-related variables
-* All variables with an `ret_` prefix are utilized for retail-related variables
+* All variables with a `mf_` prefix are utilized for multifamily-related variables
+* All variables with an `off_` prefix are utilized for office-related variables
+* All variables with a `ret_` prefix are utilized for retail-related variables
 * All variables with an `ind_` prefix are utilized for industrial-related variables
 
 ## Complete Project Documentation Coming Soon
