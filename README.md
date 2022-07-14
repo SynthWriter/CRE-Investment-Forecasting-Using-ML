@@ -26,10 +26,10 @@ A supervised machine learning model that can accurately predict which cities and
 * In-Depth Model Evaluation / Analysis
 * Use of Class Balancing to Improve Model Accuracy
 * Implementaion of `scikit-learn` and `SciPy` Libraries for Model's Train-Test Splits
-* Execution of Variable Encoding (to Aid the ML Algorithm)
+* Execution of Variable Encoding
 * Plotting & Analyzing the ROC Curve / Confusion Matrix
 * Optimizing the Model's Bias & Variance to Improve Performance on Test Data
 
-### **Note:** This is a large scale ML model and it is currently a work in progress which is solely operating on my local machine at this time. Raw code files and documentation will be released as soon as this project is completed.
+### **Note:** This is a large scale ML model which is solely operating on my local machine at this time. Raw code files and documentation will be released as soon as this project is completed.
 
-* Also, each raw dataframe contains literally millions of datapoints **per asset type**, and there are four asset types. The dataframe for multifamily properties alone features exactly 57,438,193 individual datapoints.
+* Each raw dataframe contains millions of datapoints **_per asset type_**, and there are four asset types. The dataframe for multifamily properties alone features exactly 57,438,193 individual datapoints.
