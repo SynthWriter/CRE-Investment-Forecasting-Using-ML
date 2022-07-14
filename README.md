@@ -1,4 +1,4 @@
-# CRE-Investment-Optimization-Using-ML
+# CRE-Investment-Forecasting-Using-ML
 
 A supervised machine learning model that can accurately predict which cities and property types to invest in based on multivariate analysis, KPI weighting, and a combination of logistic regression / random forest models. This ML model is tested and trained on datasets which have been sourced from [CoStar Analytics](https://www.costar.com/products/analytics) and [Oxford Economics](https://www.oxfordeconomics.com/service-category/real-estate/) in order to create six scenarios that will emulate numerous market conditions:
 
